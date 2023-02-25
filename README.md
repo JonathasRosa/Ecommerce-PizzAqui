@@ -24,7 +24,7 @@ JavaScript para desenvolver a lógica.
 
 ## ✒️ Autores
 
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/JonathasRosa)
+* **Um desenvolvedor** - *Trabalho Inicial* - [Jonathas Rosa](https://github.com/JonathasRosa)
 ## Meta
 
 Jonathas Rosa - [@jonathas_rosa85](https://www.instagram.com/jonathas_rosa85/) - jonathasrosa85@gmail.com
