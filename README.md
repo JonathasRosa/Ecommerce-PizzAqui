@@ -20,9 +20,7 @@ JavaScript para desenvolver a lógica.
 
     * Projeto inicial
 
-## 🛠️ Construído com
-
-O projeto foi construido com 
+## 🛠️ O projeto foi construido com
 
 * [HTML5](https://www.w3c.br/Cursos/CursoHTML5) - Estutura do projeto.
 * [CSS3](https://www.w3c.br/Cursos/CursoCSS3/) - Styles do projeto.
@@ -32,14 +30,14 @@ O projeto foi construido com
 
 Nós usamos [Git](https://git-scm.com/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/JonathasRosa/Ecommerce-PizzAqui).
 
-## ✒️ Autores
+## ✒️ Autor
 
 * **Um desenvolvedor** - *Trabalho Inicial* - [Jonathas Rosa](https://github.com/JonathasRosa)
 
 ## Redes sociais
 
 Linkedin - [JonathasRosa](https://www.linkedin.com/in/jonathasrosa85/)
-##
+-
 Instagram - [@jonathas_rosa85](https://www.instagram.com/jonathas_rosa85/)
 
 ## Licença
