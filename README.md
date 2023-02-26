@@ -1,5 +1,4 @@
 # Ecommerce-PizzAqui.
-> Esse é um E-commerce para Pizzarias.
 
 Este é um projeto de Ecommerce para pizzarias,
 na qual o usuário pode escolher as suas pizzas
