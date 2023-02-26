@@ -47,7 +47,7 @@ Instagram - [@jonathas_rosa85](https://www.instagram.com/jonathas_rosa85/)
 
 Distribuído sobre a licença. Veja `MIT License` para mais informações.
 
-[https://jonathasrosa.github.io/Ecommerce-PizzAqui/](https://github.com/JonathasRosa)
+[https://github.com/JonathasRosa/Ecommerce-PizzAqui/blob/main/LICENSE](https://github.com/JonathasRosa)
 
 ## 🎁 Expressões de gratidão
 
