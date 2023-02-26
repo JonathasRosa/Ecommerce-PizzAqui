@@ -47,9 +47,9 @@ Distribuído sobre a licença. Veja `MIT License` para mais informações.
 
 ## 🎁 Expressões de gratidão
 
+* Você gosstou do projeto? 
 * Conte a outras pessoas sobre este projeto 📢;
 * Convide alguém da equipe para uma cerveja 🍺;
-* Um agradecimento publicamente 🫂;
-* etc.
+* Agradeço publicamente a minha esposa Ingrid Mendez que me incentivou nessa jornada e a todas as outras pessoas que participaram do processo, desde os que me apresentaram a programação e todos os professores;
 ---
 ⌨️ com ❤️ por [Jonathas Rosa](https://github.com/JonathasRosa) 😊
