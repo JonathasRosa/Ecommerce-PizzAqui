@@ -36,10 +36,14 @@ Nós usamos [Git](https://git-scm.com/) para controle de versão. Para as versõ
 ## ✒️ Autores
 
 * **Um desenvolvedor** - *Trabalho Inicial* - [Jonathas Rosa](https://github.com/JonathasRosa)
-## Meta
 
-Jonathas Rosa - [JonathasRosa](https://www.linkedin.com/in/jonathasrosa85/) - jonathasrosa85@gmail.com
-Jonathas Rosa - [@jonathas_rosa85](https://www.instagram.com/jonathas_rosa85/) - jonathasrosa85@gmail.com
+## Redes sociais
+
+Linkedin - [JonathasRosa](https://www.linkedin.com/in/jonathasrosa85/)
+##
+Instagram - [@jonathas_rosa85](https://www.instagram.com/jonathas_rosa85/)
+
+## Licença
 
 Distribuído sobre a licença. Veja `MIT License` para mais informações.
 
