@@ -36,6 +36,7 @@ Nós usamos [Git](https://git-scm.com/) para controle de versão. Para as versõ
 
 ## Redes sociais
 
+-
 Linkedin - [JonathasRosa](https://www.linkedin.com/in/jonathasrosa85/)
 -
 Instagram - [@jonathas_rosa85](https://www.instagram.com/jonathas_rosa85/)
